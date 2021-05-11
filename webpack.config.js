@@ -81,4 +81,3 @@ module.exports = {
     extensions: ['.ts', '.js']
   }
 }
-// /less less-loader css-loader style-loader postcss postcss-loader postcss-preset-env
